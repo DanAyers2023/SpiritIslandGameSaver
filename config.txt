@@ -1,0 +1,3 @@
+main_folder=C:\Program Files (x86)\Steam\userdata\6551611\1236720\remote
+save_folder=Saves
+active_save=save-ContinueGame.dat
